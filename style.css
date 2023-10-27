@@ -37,6 +37,15 @@ li{
     padding: 5px 10px 5px 10px;
     border: 1px solid grey;
     overflow: none;
-    justify-content:center
+    justify-content:center;
+
+}
+
+.icons{
+    background-color: lightgray;
+    margin:50px ;
+    padding:50px;
+    color:black
+    
 
 }
